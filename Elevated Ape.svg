@@ -28,9 +28,9 @@
                         <use mask="url(#mask-4)" xlink:href="#path-1"></use>
                     </g>
                     <polygon id="Rectangle-11" fill="#FFF0FF" mask="url(#mask-3)" points="104 -75 149 -75 126 108"></polygon>
-                    <polygon id="Rectangle-11-Copy" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(82.558380, 31.138868) rotate(-34.000000) translate(-82.558380, -31.138868) " points="60.0583796 -55.1006564 105.05838 -55.1006564 81.0109153 117.378393"></polygon>
+                    <polygon id="Rectangle-11-Copy" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(62.502287, 0.004373) rotate(-34.000000) translate(-62.502287, -0.004373) " points="33.8572865 -138.677302 91.1472874 -136.36042 60.3690236 138.686048"></polygon>
                     <polygon id="Rectangle-11-Copy-2" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(71.388094, 74.885594) rotate(-69.000000) translate(-71.388094, -74.885594) " points="52.3039067 7.35104504 90.4722822 -6.22927722 68.4513662 156.000465"></polygon>
-                    <polygon id="Rectangle-11-Copy-3" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(163.819496, 38.438778) rotate(-330.000000) translate(-163.819496, -38.438778) " points="141.319496 -53.0612218 186.319496 -53.0612218 163.319496 129.938778"></polygon>
+                    <polygon id="Rectangle-11-Copy-3" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(179.607589, 15.020939) rotate(-328.000000) translate(-179.607589, -15.020939) " points="155.607589 -104.772455 203.607589 -104.772455 179.074256 134.814333"></polygon>
                     <polygon id="Rectangle-11-Copy-4" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(174.174580, 75.536349) rotate(-293.000000) translate(-174.174580, -75.536349) " points="159.746149 14.7402997 188.60301 24.8165908 174.651673 136.332398"></polygon>
                     <polygon id="Rectangle-11-Copy-5" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(173.639977, 102.125347) rotate(-265.000000) translate(-173.639977, -102.125347) " points="159.9423 50.2617996 187.337654 47.8650155 172.204196 156.385678"></polygon>
                     <polygon id="Rectangle-11-Copy-6" fill="#FFF0FF" mask="url(#mask-3)" transform="translate(169.315246, 121.633752) rotate(-237.000000) translate(-169.315246, -121.633752) " points="155.670106 62.3100058 182.960387 64.8576685 171.534529 180.957497"></polygon>
@@ -42,6 +42,7 @@
                     <g id="Ape" mask="url(#mask-3)">
                         <g transform="translate(-33.000000, 14.000000)">
                             <path d="M163.381592,124.409739 C163.406268,117.316608 162.593229,109.341114 156.364434,98.9597884 C156.364434,98.9597884 137.428552,102.735466 138.013268,92.824069 C138.597984,82.9126721 149.620789,64 160.376213,64 C175.007308,64 185.02,81.7664495 185.02,96.0942317 C181.008221,102.971567 165.576791,98.8006279 166.107326,98.9597884 C168.931507,103.19606 169.869619,113.070855 170.119105,121.311128 C170.245486,125.485361 173.5329,129.907798 171.813566,132.200243 C169.521121,135.065799 168.948009,135.638911 165.509342,134.492688 C165.509342,131.967571 163.372211,127.106189 163.381592,124.409739 Z" id="Mushroom-Stroke" fill="#FFFFFF"></path>
+                            <rect id="Mask" fill="#FFFFFF" x="156" y="92" width="22" height="23"></rect>
                             <g id="Mushroom" stroke-width="1" fill="none" transform="translate(143.000000, 68.000000)">
                                 <mask id="mask-8" fill="white">
                                     <use xlink:href="#path-7"></use>
@@ -58,9 +59,9 @@
                                 <path d="M101.5,92 C105.642136,92 105.5,89.6421356 105.5,85.5 C105.5,81.3578644 99.5,82.5 99.5,82.5 C99.5,82.5 90.5,83.9313962 90.5,86.5 C90.5,90.6421356 97.3578644,92 101.5,92 Z" id="Oval-1-Copy" fill="#FFFFFF"></path>
                                 <circle id="Oval-2" fill="#404040" cx="85" cy="87" r="5"></circle>
                                 <path d="M100,91 C102.761424,91 105,88.7614237 105,86 C105,83.2385763 102.5,81.5 100,82 C97.5,82.5 95,83.2385763 95,86 C95,88.7614237 97.2385763,91 100,91 Z" id="Oval-2-Copy" fill="#404040"></path>
-                                <g id="Nose" transform="translate(106.070549, 101.636916) rotate(17.000000) translate(-106.070549, -101.636916) translate(98.570549, 94.636916)" fill="#404040">
-                                    <ellipse id="Oval-11-Copy" transform="translate(6.879900, 9.846165) rotate(-341.000000) translate(-6.879900, -9.846165) " cx="6.87990026" cy="9.84616545" rx="6.54500008" ry="2.02999997"></ellipse>
-                                    <ellipse id="Oval-11-Copy-2" transform="translate(9.789446, 6.937075) rotate(-295.000000) translate(-9.789446, -6.937075) " cx="9.78944564" cy="6.93707454" rx="6.54545455" ry="2.02999997"></ellipse>
+                                <g id="Nose" transform="translate(105.631991, 103.071373) rotate(17.000000) translate(-105.631991, -103.071373) translate(98.131991, 95.571373)" fill="#404040">
+                                    <ellipse id="Oval-11-Copy" transform="translate(6.884736, 10.425708) rotate(-341.000000) translate(-6.884736, -10.425708) " cx="6.88473643" cy="10.4257079" rx="6.54500008" ry="2.02999997"></ellipse>
+                                    <ellipse id="Oval-11-Copy-2" transform="translate(10.081817, 6.893379) rotate(-295.000000) translate(-10.081817, -6.893379) " cx="10.0818173" cy="6.89337929" rx="6.54545455" ry="2.02999997"></ellipse>
                                 </g>
                             </g>
                         </g>
